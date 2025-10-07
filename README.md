@@ -180,13 +180,13 @@ docker run -p 8080:8080 phishing-detector:latest
 ## 🗂️ Repository Structure
 ```
 .
-├── app.py                       # Flask API for phishing detection
-├── phishing_url_classifier.pkl   # Trained Random Forest model
-├── requirements.txt
-├── Dockerfile
-├── notebooks/                    # Jupyter notebooks for model training
-├── sample_data.csv               # Small, safe example dataset
-├── demo/                         # Demo video or screenshots
+├── app.py
+├── app-1.py
+├── Phishing Data Test.ipynb
+├── Phishing Data Test-1.ipynb
+├── BIA662 Phishing Detection Project Poster.pptx
+├── BIA662 Phishing Detection Project Poster - with screenshot.pptx
+├── BIA662 Phishing Detection Project - Demo.mp4
 └── README.md
 ```
 
